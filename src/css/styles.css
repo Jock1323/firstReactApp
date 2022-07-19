@@ -605,7 +605,7 @@ li{
         display:flex;
         margin: 20px auto 0 auto;
         width:150px;
-        justify-content: space-between;
+        justify-content:space-between;
     }
 }
 @media only screen and (max-width:600px){
